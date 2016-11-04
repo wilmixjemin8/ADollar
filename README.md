@@ -1,7 +1,7 @@
 # ADollar
 ===========
 
-ADollar(A$)   Technology   is   focused   on  Advanced  Business  Construction
+ADollar(A$)  Programming Language   is   focused   on  Advanced  Business  Construction
 
 The  Letter  A   stands  for   Advanced  and  Dollar  means   the  business,
 
@@ -10,11 +10,11 @@ so  it's   name   is  formed  as  Advanced   Business.
 
 
 
-ADollar(A$)   is  invented    in   CH$  Technology  in  AUG  2  2015.  
+ADollar(A$)   is  invented    in   CH$  Programming Language in  AUG  2  2015.  
 
-JDollar   is   the  first    powerful  Technology  for    Advanced  Business.
+JDollar   is   the  first    powerful Programming Language  for    Advanced  Business.
 
-Where    Adollar(A$)  is  the  next   powerful  Technology  for
+Where    Adollar(A$)  is  the  next   powerful Programming Language  for
 
 Advanced  Business.
 
@@ -27,7 +27,7 @@ Advanced  Business   is  defined    as  "  A    Business   instrument  to  reduc
 
 responsible  to  recover   software    economies   in   recession,
 
-Maintain   cost  ,  bring   stability   ,and    unity   towards    Technologies  and  overtake
+Maintain   cost  ,  bring   stability   ,and    unity   towards    Programming Languages  and  overtake
 
 competitors   decision  planning".
 
@@ -358,7 +358,7 @@ system   to  increase   the  value   of  the  Bank .
 
 Adollar   has   Adollar remote  server    to  execute   this  program,   and   that  is
 
-used    in  cloud   computing. Adollar   Technology   also   store   and  display    infinitive   digits  of  a  number...
+used    in  cloud   computing. Adollar  Programming Language   also   store   and  display    infinitive   digits  of  a  number...
 
 and  it  also  allows   character   or   string  between    the  digits  of  a  number...
 
