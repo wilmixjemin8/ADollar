@@ -10,7 +10,7 @@ so  it's   name   is  formed  as  Advanced   Business.
 
 
 
-ADollar(A$)   is  invented    in   CH$  Programming Language in  AUG  2  2015.  
+ADollar(A$)   is  invented    in   JAS  Programming Language in  AUG  2  2015.  
 
 JDollar   is   the  first    powerful Programming Language  for    Advanced  Business.
 
