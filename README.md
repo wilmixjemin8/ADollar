@@ -10,7 +10,7 @@ so  it's   name   is  formed  as  Advanced   Business.
 
 
 
-ADollar(A$)   is  invented    in   JAS  Programming Language in  AUG  2  2015.  
+ADollar(A$)   is  invented    in   CHDOLLAR Programming Language in  AUG  2  2015.  
 
 
 
